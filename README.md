@@ -1,3 +1,4 @@
+test 12345
 # Chrome Extensions samples
 
 Official samples for Chrome Extensions and the Chrome Apps platform.
